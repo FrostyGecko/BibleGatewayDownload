@@ -179,4 +179,4 @@ book            = "Genesis"
 reference       = "1:1-2:5"
 version         = "ESV"
 
-BibleGatewayReference(version,book,reference,crossrefs=True)
+BibleGatewayReference(version,book,reference,crossrefs=True,headers=True,)
